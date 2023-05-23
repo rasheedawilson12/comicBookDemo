@@ -1,0 +1,49 @@
+.comicContainer {
+  background-color: gold;
+  border: dashed black;
+  border-width: 3px;
+  padding: 0.7em;
+  padding-bottom: 2em;
+}
+
+.topText {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.section {
+  width: 33%;
+  margin: 10px;
+}
+
+.pic {
+  border: solid black;
+  border-radius: 15px;
+  width: 100%;
+  height: 100%;
+}
+
+.miniText {
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 3px;
+}
+
+.rowOne {
+  display: flex;
+  height: 50%;
+  margin: 1em;
+  padding-bottom: 30px;
+}
+
+.rowTwo {
+  display: flex;
+  height: 50%;
+  margin: 1em;
+}
